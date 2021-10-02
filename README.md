@@ -1,4 +1,4 @@
-git clone https://github.com/cyberkallan/inshackle-bot
+```git clone https://github.com/cyberkallan/inshackle-bot
 
 cd inshackle-bot
 
